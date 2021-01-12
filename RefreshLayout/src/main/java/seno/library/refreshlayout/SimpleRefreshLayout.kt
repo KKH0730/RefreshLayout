@@ -5,11 +5,12 @@ import android.util.AttributeSet
 import android.view.*
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
+import android.widget.FrameLayout
 import android.widget.LinearLayout
 import android.widget.ProgressBar
 import kotlin.properties.Delegates
 
-class SimpleRefreshLayout (context: Context, attrs: AttributeSet): LinearLayout(context, attrs) {
+class SimpleRefreshLayout (context: Context, attrs: AttributeSet): FrameLayout(context, attrs) {
     private var progressbar: ProgressBar
     private var translateUp: Animation
     private var playAnim = false
