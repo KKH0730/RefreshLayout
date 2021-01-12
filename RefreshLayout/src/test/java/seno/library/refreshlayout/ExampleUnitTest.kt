@@ -1,4 +1,4 @@
-package seno.library.simplerefreshlayout
+package seno.library.refreshlayout
 
 import org.junit.Test
 
