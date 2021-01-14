@@ -24,7 +24,6 @@ class SimpleRefreshLayout (context: Context, attrs: AttributeSet): FrameLayout(c
         var view =  inflater.inflate(R.layout.refresh_layout, this)
         progressbar = findViewById(R.id.progressBar)
 
-
         var windowManager = context.getSystemService(Context.WINDOW_SERVICE) as WindowManager
         parentHeight = windowManager.defaultDisplay.height
 
