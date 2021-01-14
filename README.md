@@ -1,6 +1,9 @@
 # SimpleRefreshLayout
 A simple refresh layout library   
-![](cat.gif)
+
+![loadingcat](https://user-images.githubusercontent.com/66052075/104599951-bb871f80-56bb-11eb-9f75-0b4325a2cf73.gif)
+
+
 
 # Design
 All disign by myself
