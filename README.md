@@ -1,7 +1,8 @@
 # SimpleRefreshLayout
 A simple refresh layout library   
 
-![loadingcat](https://user-images.githubusercontent.com/66052075/104599951-bb871f80-56bb-11eb-9f75-0b4325a2cf73.gif)
+![refresh_layout](https://user-images.githubusercontent.com/66052075/104601438-98f60600-56bd-11eb-9926-df5e720a8d92.gif)
+
 
 
 
